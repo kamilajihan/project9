@@ -1,7 +1,7 @@
 # project9 
 OUTPUT CRUD PHP & MySQLi
 Halaman Utama : 
-![Alt text](halaman_utama.PNG)
+![Alt text](alaman_utama.PNG)
 
 Tambah data :
 ![Alt text](tambah_data.PNG)
